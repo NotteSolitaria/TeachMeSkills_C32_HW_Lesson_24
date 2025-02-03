@@ -1,0 +1,4 @@
+Logger servlet destroyed 2025-02-03T22:36:43.216564700
+Logger servlet initialized 2025-02-03T22:36:51.459689500
+Logger servlet at stage DoGet 2025-02-03T22:36:51.460438600
+Logger servlet destroyed 2025-02-03T22:37:07.612026
